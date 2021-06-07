@@ -464,3 +464,21 @@ td {
     outline: none;
     border-radius: 5px;
 }
+
+.contact-me p {
+    color: #FFFFFF;
+    font-size: 30px;
+    font-family: calibri;
+    font-weight: bold;
+    border-bottom: 2px solid #FFFFFF;
+}
+
+.contact-me button {
+    width: 200px;
+    height: 40px;
+    outline: none;
+    border: none;
+    font-size: 14px;
+    background-color: #FFFFFF;
+    font-weight: bold;
+}
