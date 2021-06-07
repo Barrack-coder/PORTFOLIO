@@ -3,8 +3,8 @@ About myself
 
 ## Technologies
 
-html 
-css
+HTML &
+CSS
 
 
 ## Contacts
