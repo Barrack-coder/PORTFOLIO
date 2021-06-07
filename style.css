@@ -174,3 +174,32 @@ button:active {
     font-family: calibri;
     background-color: #262525;
 }
+
+.table {
+    text-align: -webkit-center;
+    font-size: 30px;
+    border-spacing: 30px;
+    padding: 40px;
+}
+
+table,
+th,
+td {
+    border: 3px solid black;
+    border-collapse: collapse;
+    margin: 50px;
+    background-color: rgb(34, 214, 154);
+    font-style: oblique;
+}
+
+th {
+    text-align: center;
+    margin: 20px;
+    padding: 10px
+}
+
+td {
+    padding: 30px;
+    margin: 10px;
+    font-weight: bolder
+}
