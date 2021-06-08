@@ -204,13 +204,17 @@ td {
     font-weight: bolder
 }
 
+.job {
+    margin-left: 35rem;
+    font-size: 20px;
+    font-weight: bolder;
+    color: #565555;
+}
 
-/*.job h2 p {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color: aqua;
-}*/
+.head {
+    text-align: center;
+    margin-top: 3rem;
+}
 
 .box-1,
 .box-2,
