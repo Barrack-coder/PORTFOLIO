@@ -1,16 +1,57 @@
+
+
 # PORTFOLIO
-About myself
-
+​
+> A personal portfolio website build based on HTML and CSS.
+​
+​
+​
+​
 ## Technologies
+​
+- HTML
+- CSS
 
-HTML &
-CSS
+ 
+​
+## Live Demo
+​
+[Live Demo Link](https://barrack-coder.github.io/PORTFOLIO/)
+​
 
+​
+### Prerequisites
+​
+A computer with a working and up to date web browser.
+​
 
-## Contacts
+​
+## Author
+​
+👤 **Author**
+​
+  By Barrack Odhiambo Juma
+​
+- GitHub: [Barrack-coder](https://github.com/Barrack-coder)
+- email: jumabarrack17@gmail.com
 
-Barrack Odhiambo
+​
+​
+​
+​
+​
+## �� Contributing
+​
+Contributions, issues, and feature requests are welcome!
+​
+Feel free to check the [issues page](ISSUE_TEMPLATE/feature_request.md).
+​
 
-jumabarrack17@gmail.com
-
-0792526832
+​
+## Acknowledgments
+​
+- I Appreciate Moringa school for platform to learn:)
+​
+## �� License
+​
+This project is [MIT](LICENSE) licensed.
