@@ -36,7 +36,7 @@ A computer with a working and up to date web browser.
 - email: jumabarrack17@gmail.com
 
 
-​### Setup
+​SETUP
 ​
 - Clone the repository to your folder of choice using Git (or just download all the files)
 ```
